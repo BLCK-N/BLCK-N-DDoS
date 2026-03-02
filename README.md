@@ -1,4 +1,7 @@
-# DDos-By- 人を信じよ、
-This is an IP address-based DDoS tool created by #DDos-By- 人を信じよ、 [for educational purposes].
-Please do not DDoS attack random websites or IP addresses. Leave a star if you like my skidding tool. Unfortunately, it does not work on Linux.
- 
+# DDoS
+This is a Ip ddoser made by aligamm [ education purpose ]
+please dont ddos any random websites or ips 
+
+
+Leave a star if u like my skid tool 
+sadly my tool dont work on linux
